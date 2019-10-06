@@ -69,6 +69,7 @@ html {
     } 
     .menuDesktop ul li a  {
         color: #F0F0F0;
+        font-size: 16px;
     }
     .menuDesktop ul li a:hover {
         color: #F5DA43;
@@ -77,7 +78,6 @@ html {
     .first_block_headline h1 {
         margin: 7% 0 0 5%;
     }
-    
     .second_block {
         display: none;
     }
