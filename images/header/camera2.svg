@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 250 250" style="enable-background:new 0 0 250 250;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#1C242E;}
+	.st2{fill:#F9D716;}
+	.st3{font-family:'Gilroy-ExtraBold';}
+	.st4{font-size:21.8611px;}
+	.st5{letter-spacing:3;}
+	.st6{font-size:12.3563px;}
+	.st7{letter-spacing:2;}
+</style>
+<g>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="73.724" y1="38.2403" x2="106.9909" y2="172.2581">
+			<stop  offset="0" style="stop-color:#F9D716"/>
+			<stop  offset="1" style="stop-color:#F9B700"/>
+		</linearGradient>
+		<path class="st0" d="M109.3,190.4H28c-6.9,0-11.2-7.4-7.7-13.4l40.7-70.4l40.7-70.4c3.4-6,12-6,15.5,0l40.7,70.4l40.7,70.4
+			c3.4,6-0.9,13.4-7.7,13.4H109.3z"/>
+		<path class="st1" d="M190.6,192.8H28c-4.1,0-7.7-2.1-9.8-5.7c-2-3.5-2-7.8,0-11.3L99.5,35c2-3.5,5.7-5.7,9.8-5.7
+			c4.1,0,7.7,2.1,9.8,5.7l81.3,140.9c2,3.5,2,7.8,0,11.3C198.4,190.7,194.7,192.8,190.6,192.8z M109.3,34.1c-2.4,0-4.5,1.2-5.7,3.3
+			L22.3,178.2c-1.2,2.1-1.2,4.5,0,6.6c1.2,2.1,3.3,3.3,5.7,3.3h162.7c2.4,0,4.5-1.2,5.7-3.3c1.2-2.1,1.2-4.5,0-6.6L115,37.4
+			C113.8,35.3,111.7,34.1,109.3,34.1z"/>
+	</g>
+	<path class="st1" d="M198.4,177L171.8,131H46.8L20.2,177c-3.4,6,0.9,13.4,7.7,13.4h81.3h81.3C197.5,190.4,201.8,183,198.4,177z"/>
+	<text transform="matrix(1 0 0 1 79.334 161.2002)"><tspan x="0" y="0" class="st2 st3 st4 st5">cctv</tspan><tspan x="-2" y="14.8" class="st2 st3 st6 st7">cameras</tspan></text>
+	<g>
+		<path class="st1" d="M80.9,88.3v2.7c0,3.2,2.6,5.8,5.8,5.8h43.4c3.2,0,5.8-2.6,5.8-5.8v-2.7H80.9z"/>
+		<path class="st1" d="M108.4,119.9c11.5,0,20.8-9.3,20.8-20.8H87.6C87.6,110.6,96.9,119.9,108.4,119.9z M108.4,103.6
+			c3.3,0,6,2.7,6,6c0,3.3-2.7,6-6,6c-3.3,0-6-2.7-6-6C102.4,106.2,105.1,103.6,108.4,103.6z"/>
+		<path class="st1" d="M108.4,112c1.4,0,2.5-1.1,2.5-2.5c0-1.4-1.1-2.5-2.5-2.5c-1.4,0-2.5,1.1-2.5,2.5
+			C105.9,110.9,107,112,108.4,112z"/>
+	</g>
+</g>
+</svg>
